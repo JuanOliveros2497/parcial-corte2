@@ -129,23 +129,5 @@ Debe agregar una reserva a la base de datos con sus respectivos campos.
 }
 ```
 
-## Actualiza reservas.
-![Imagen](./img/2.png)
-
-<p>
-Actualiza una reserva por id .
-</p>
-
-
-```json
-{
-  "id": 6,
-  "nombreCliente": "Camilo",
-  "fecha": "2025/02/02",
-  "hora": "9:00",
-  "mesaId": "1",
-  "version": 1
-}
-```
 
 
